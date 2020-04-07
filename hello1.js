@@ -1,2 +1,3 @@
 console.log("hello1")
-console.log("hello2")
+// removed some commits
+console.log("hello3")
